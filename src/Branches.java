@@ -7,6 +7,6 @@ public class Branches {
 
         System.out.println("Serhat");
         System.out.println("Ayhan Abi");
-        System.out.println("armagan");
+        System.out.println("armagan01");
     }
 }
